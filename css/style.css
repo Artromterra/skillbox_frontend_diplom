@@ -3194,7 +3194,7 @@ body {
   }
 
   .events__slide-descr {
-    width: 225px;
+    padding-right: 5%;
   }
 
   .events__slide-link {
